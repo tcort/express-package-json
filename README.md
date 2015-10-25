@@ -44,7 +44,7 @@ Returns:
         res.render('index');
     });
 
-`views/index.ejs`:
+`views/index.hbs`:
 
     {{pkg.name}} v{{pkg.version}}
 
