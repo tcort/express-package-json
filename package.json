@@ -28,8 +28,8 @@
     "mocha": "^2.3.3",
     "supertest": "^1.1.0",
     "express": "^4.13.3",
-    "hbs": "^3.1.1",
-    "jshint": "^2.8.0"
+    "hbs": "^4.0.0",
+    "jshint": "^2.9.1-rc2"
   },
   "jshintConfig": {
     "bitwise": true,
