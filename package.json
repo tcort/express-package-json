@@ -1,6 +1,6 @@
 {
   "name": "express-package-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "express middleware to expose the contents of package.json to the view engine via res.locals",
   "main": "index.js",
   "scripts": {
